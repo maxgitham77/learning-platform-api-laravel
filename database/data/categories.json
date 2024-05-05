@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Development",
+        "children": [
+            {
+                "name": "Web Development"
+            },
+            {
+                "name": "Mobile Development"
+            },
+            {
+                "name": "Game Development"
+            }
+        ]
+    },
+    {
+        "name": "Buisness",
+        "children": [
+            {
+                "name": "Communication"
+            },
+            {
+                "name": "Entrepreneurship"
+            },
+            {
+                "name": "Management"
+            }
+        ]
+    }
+]
