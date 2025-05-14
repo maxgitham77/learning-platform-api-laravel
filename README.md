@@ -21,21 +21,17 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## learning-platform-api-laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+A showcase Laravel-based RESTful API for a learning platform. This project demonstrates API architecture, Laravel best practices, and core features like user authentication, course management, and content delivery.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+⚠️ Note: This repository is intended for demonstration purposes only. It is not meant to be installed, deployed, or used in production environments.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## About
 
-## Laravel Sponsors
+This API was built to illustrate the structure and logic behind a typical Laravel-based learning platform backend. It includes:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
+- **User authentication (Laravel Sanctum or Passport)**
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
